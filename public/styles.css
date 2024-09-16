@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1ead0; /* Fondo en tono claro */
+    color: #003850; /* Texto en color oscuro */
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #ef5f24; /* Naranja para encabezados */
+}
+
+a {
+    color: #ef5f24;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: #ef5f24;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #003850; /* Azul oscuro al pasar el mouse */
+}
